@@ -1,0 +1,10 @@
+F:\FF\Phanso\Phanso\bin\Debug\Phanso.exe.config
+F:\FF\Phanso\Phanso\bin\Debug\Phanso.exe
+F:\FF\Phanso\Phanso\bin\Debug\Phanso.pdb
+F:\FF\Phanso\Phanso\obj\Debug\Phanso.csprojAssemblyReference.cache
+F:\FF\Phanso\Phanso\obj\Debug\Phanso.Form1.resources
+F:\FF\Phanso\Phanso\obj\Debug\Phanso.Properties.Resources.resources
+F:\FF\Phanso\Phanso\obj\Debug\Phanso.csproj.GenerateResource.cache
+F:\FF\Phanso\Phanso\obj\Debug\Phanso.csproj.CoreCompileInputs.cache
+F:\FF\Phanso\Phanso\obj\Debug\Phanso.exe
+F:\FF\Phanso\Phanso\obj\Debug\Phanso.pdb
